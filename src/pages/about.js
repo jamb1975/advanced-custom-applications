@@ -9,6 +9,9 @@ const AboutPage = () => {
   )
 }
 
-export const Head = () => <title>About Me</title>
+export const Head = () => <seo title="About Me" />
 
 export default AboutPage
+
+// Rest of the component...
+
